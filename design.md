@@ -1,4 +1,4 @@
-# Hybrid Quantum Processor Design: Photonic-NV Center Hybrid
+# The Perfect Quantum Processor
 
 ## 1. One-Page System Overview
 
